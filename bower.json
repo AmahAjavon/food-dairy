@@ -1,9 +1,9 @@
 {
-  "name": "front-end-prototype",
+  "name": "food-dairy",
   "version": "0.0.1",
-  "homepage": "https://github.com/chyld/front-end-prototype",
+  "homepage": "https://github.com/amahajavon/food-dairy",
   "authors": [
-    "Chyld Medford <chyld.medford@gmail.com>"
+    "Amah Ajavon <greatmindsent@gmail.com>"
   ],
   "license": "BSD",
   "dependencies": {
